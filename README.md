@@ -1,2 +1,2 @@
 # Download
-supporting repository for data storing
+supporting repository for Czech vegetation database - data storing
